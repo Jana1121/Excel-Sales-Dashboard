@@ -1,6 +1,6 @@
 # Excel Sales Dashboard
 
-An interactive Microsoft Excel dashboard developed to analyze fictional 2026 sales data and provide a clear overview of sales performance, profitability, products, stores, and regional trends.
+An interactive Microsoft Excel dashboard developed to analyze fictional projected sales data for 2026 and provide a clear overview of sales performance, profitability, products, stores, and regional trends.
 
 ## Dashboard Preview
 
@@ -8,7 +8,7 @@ An interactive Microsoft Excel dashboard developed to analyze fictional 2026 sal
 
 ## Key Insights
 
-- Overview of total sales and total profit.
+- Overview of total projected sales and total profit.
 - Analysis of sales and profit across different cities.
 - Comparison of sales performance across Saudi regions.
 - Identification of top-performing products.
@@ -44,4 +44,4 @@ The repository includes the original Excel `.xlsm` workbook containing the dashb
 
 ## Note
 
-This dashboard was created for **training and learning purposes using fictional data**. It does not represent actual business, customer, or organizational data.
+This dashboard was developed in **2025** as a training and learning project using **fictional projected sales data for 2026**. It does not represent actual business, customer, or organizational data.
